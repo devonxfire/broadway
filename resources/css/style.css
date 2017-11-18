@@ -15,10 +15,77 @@ body {
 	color: white;
 }
 
-
 #top-menu li {
+
+	padding: 5px;
+	list-style: none;
+
+}
+
+#top-menu li a {
 	font-size: 18px;
 	color: white;
-	list-style: none;
-	padding: 5px;
+	
+
 }
+
+#process-main-heading {
+	font-size: 32px;
+	font-weight: bold;
+}
+
+.process-sub-heading {
+	font-size: 23px;
+	font-weight: bold;
+
+}
+
+.process-text {
+	font-size: 14;
+
+}
+
+#middle-strip {
+	background-image: url("../images/the-flatiron-building.png");
+}
+
+#designed-ny {
+	font-size: 23px;
+	font-weight: bold;
+	color: white;
+}
+
+#footer-section {
+	background-color: dimgray;
+
+
+	
+}
+
+#footer-section li {
+	list-style: none;
+	color: white;
+	display: inline;
+	
+}
+
+
+#footer {
+	font-size: 11px;
+	color: white;
+
+}
+
+#footer-menu li {
+
+	list-style: none;
+
+
+}
+
+#footer-menu li a {
+	font-size: 18px;
+	color: white;
+	
+}
+
